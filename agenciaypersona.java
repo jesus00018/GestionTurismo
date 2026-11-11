@@ -14,7 +14,8 @@ public class Agencia {
         this.nombre = nombre;
         this.email = email;
     }
-
+    
+//getters y setters
     public int getIdAgencia() { return idAgencia; }
     public void setIdAgencia(int idAgencia) { this.idAgencia = idAgencia; }
 
